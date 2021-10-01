@@ -1,4 +1,5 @@
- 
+#Halle Michael
+#11641306
 import unittest
  
 # The Customer class
